@@ -6,13 +6,13 @@ resemble the layout of the United States (and the globe!)
 - - - -
 
 <p align="center">
-<img src="figs/pngs/state_subplot_casecounts_trends.png" alt="usa" width="95%"/>
+<img src="state_subplot_casecounts_trends.png" alt="usa" width="95%"/>
 </p>
 
 **<p align="center">Fig. 1: United States new cases, as of June 25.</center>**
 
 <p align="center">
-<img src="figs/pngs/country_subplot_casecounts.png" alt="globe" width="95%"/>
+<img src="country_subplot_casecounts.png" alt="globe" width="95%"/>
 </p>
 
 **<p align="center">Fig. 2: Country new cases, as of June 25.</center>**
