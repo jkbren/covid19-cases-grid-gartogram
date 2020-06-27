@@ -1,7 +1,7 @@
 # covid19-cases-grid-gartogram
 
 Python code for making some kinda-neatly organized subplots that vaguely
-resemble the layout of the United States (and the globe!)
+resemble the layout of the United States (and the globe!) [NBViewer of Notebook](https://nbviewer.jupyter.org/github/jkbren/covid19-cases-grid-gartogram/blob/master/covid19-cases-grid-gartogram.ipynb)
 
 - - - -
 
